@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BD_Locales</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="CustomerAge">Age</string>
+    <string name="ActiveCustomer">Active Customer</string>
+    <string name="btn_ViewAll">Edit</string>
+    <string name="btn_Add">Add</string>
+    <string name="btn_Search">Search</string>
+</resources>
